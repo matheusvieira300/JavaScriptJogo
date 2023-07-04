@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #0099cc;
+}
+
+#container-jogo {
+  margin-top: 20px;
+}
+
+#container-botoes {
+  margin-top: 10px;
+}
+
+.botao-cor {
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.vermelho {
+  background-color: red;
+}
+
+.azul {
+  background-color: blue;
+}
+
+.verde {
+  background-color: green;
+}
+
+.amarelo {
+  background-color: yellow;
+}
+
+.laranja {
+  background-color: orange;
+}
+
+.roxo {
+  background-color: purple;
+}
+
+.rosa {
+  background-color: pink;
+}
+
+.preto {
+  background-color: black;
+}
+
+.branco {
+  background-color: white;
+}
